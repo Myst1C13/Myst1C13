@@ -1,16 +1,17 @@
-## Placeholder currently ( changes coming soon ) 
 
-<!--
-**Myst1C13/Myst1C13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student who likes building things that actually help me.
 
-Here are some ideas to get you started:
+Right now, I’m coding pretty much every day — learning by building random useful stuff, breaking it, fixing it, and sometimes accidentally making something cool.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of the time, I’m chasing whatever idea grabs my brain at 2 a.m.
+
+Nothing here is perfect. Most of it is just me figuring things out in public.
+
+Let’s see what we end up building. 🚀
+
+
+🎓 Sophomore @ Purdue University  
+
+If you’re building something wild and want to work together, or if you just want to say hi or talk shop,  [hit me up](mailto:syedmhusain1301@gmail.com)
+
+
