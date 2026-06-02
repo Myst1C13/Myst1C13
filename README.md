@@ -1,17 +1,19 @@
+# hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I’m a student who likes building things that actually help me.
+sophomore @ purdue. i like building things that actually do something useful for me.
 
-Right now, I’m coding pretty much every day — learning by building random useful stuff, breaking it, fixing it, and sometimes accidentally making something cool.
+most of my ideas hit at 2 a.m. i just start coding and see what happens.
 
-Most of the time, I’m chasing whatever idea grabs my brain at 2 a.m.
+---
 
-Nothing here is perfect. Most of it is just me figuring things out in public.
+**what i'm working on right now** 🔧
 
-Let’s see what we end up building. 
+🐧 **linux distro** — custom arch-based distro built from scratch. stripped stock arch down to bare metal, added hyprland wayland compositor with animations/blur/rounded corners, catppuccin theme across everything. building custom tools in rust — universal search bar with in-memory trie (sub-millisecond lookup), snap layouts, context modes. idles at ~350MB RAM with full desktop. not a rice — a distribution. stack: arch linux, hyprland, waybar, rust, gtk4.
 
+📈 **options scalper + backtester** — bot that trades nifty/banknifty options automatically. reads RSI, bollinger bands, VWAP, volume spikes, figures out the trend, and pulls the trigger. built a full walk-forward backtester with real slippage modeling and confirmation candles so the numbers aren't bs. ran a grid search over 54 param combos — best setup hits 1.55 profit factor on 6 months of data. python + fastapi, hooked into zerodha's kite api with websocket streaming.
 
-Sophomore @ Purdue University  
+---
 
-If you’re building something wild and want to work together, or if you just want to say hi or talk shop,  [hit me up](mailto:syedmhusain1301@gmail.com)
+nothing here is perfect. most of it is me figuring things out in public and breaking stuff along the way.
 
-
+if you're building something cool or just wanna talk, [hit me up](mailto:syedmhusain1301@gmail.com) 💬
