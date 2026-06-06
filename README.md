@@ -10,7 +10,7 @@ most of my ideas hit at 2 a.m. i just start coding and see what happens.
 
 🐧 **linux distro** — custom arch-based distro built from scratch. stripped stock arch down to bare metal, added hyprland wayland compositor with animations/blur/rounded corners, catppuccin theme across everything. building custom tools in rust — universal search bar with in-memory trie (sub-millisecond lookup), snap layouts, context modes. idles at ~350MB RAM with full desktop. not a rice — a distribution. stack: arch linux, hyprland, waybar, rust, gtk4.
 
-📈 **options scalper + backtester** — bot that trades nifty/banknifty options automatically. reads RSI, bollinger bands, VWAP, volume spikes, figures out the trend, and pulls the trigger. built a full walk-forward backtester with real slippage modeling and confirmation candles so the numbers aren't bs. ran a grid search over 54 param combos — best setup hits 1.55 profit factor on 6 months of data. python + fastapi, hooked into zerodha's kite api with websocket streaming.
+📈 **options trading system** (private) — algo that trades nifty/banknifty options autonomously. signal scoring, kelly sizing, walk-forward backtester with slippage modeling. 1.55 profit factor out-of-sample. live dashboard with trade replay, heatmaps, and portfolio tracking. python + fastapi, kite connect.[say hi](mailto:syedmhusain1301@gmail.com) if you wanna talk trading
 
 ---
 
