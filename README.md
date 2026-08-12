@@ -1,6 +1,6 @@
 # Hey, I'm Syed 👋
 
-Junior at Purdue studying Computer and Information Technology with a minor in Statistics.
+I am a Junior at Purdue University studying Computer and Information Technology with a minor in Statistics.
 
 I like building things that solve real problems. Lately, I've been interested in developer tools, infrastructure, robotics, and understanding how software behaves when things break.
 
@@ -29,5 +29,7 @@ A container monitor that detects problems, restarts unhealthy services, saves in
 C++ · Python · TypeScript · JavaScript · ROS2 · FastAPI · Node.js · Docker · AWS · PostgreSQL · Redis · Linux
 
 I'm currently looking for Summer 2027 internships in software engineering, infrastructure, robotics, and applied AI.
+
+If you want to collaborate on something or just talk about an idea, feel free to reach out.
 
 [LinkedIn](https://linkedin.com/in/syedmohammadhusain) · [Email](mailto:syedmhusain1301@gmail.com)
